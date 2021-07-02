@@ -16,12 +16,12 @@ DevStudy.net
 https://devstudy.net/all-courses
 
 
-ITVDN
-https://itvdn.com/ru/specialities
-
-
 Fix Group
 https://youtube.com/c/FIXGroupofCompanies
+
+
+ITVDN
+https://itvdn.com/ru/specialities
 
 
 Eugene Suleimanov
