@@ -34,3 +34,6 @@ https://youtube.com/c/letsCodeDru
 
 Максим Сячин 
 https://youtube.com/user/SlukadRu
+
+Zaur Tregulov
+https://www.udemy.com/user/zaur-tregulov/
