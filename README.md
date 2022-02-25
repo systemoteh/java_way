@@ -14,6 +14,9 @@ https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ
 Java EE для начинающих
 https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr
 
+JavaRush 
+https://javarush.ru
+
 Eugene Suleimanov (Примеры приложений)
 https://www.youtube.com/playlist?list=PLlsMRoVt5sTNpihn4q4S4an2xpYkSA3RR
 
@@ -36,9 +39,6 @@ https://devstudy.net/all-courses
 
 Zaur Tregulov
 https://www.udemy.com/user/zaur-tregulov/
-
-JavaRush 
-https://javarush.ru
 
 ITVDN
 https://itvdn.com/ru/specialities
