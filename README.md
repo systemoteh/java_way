@@ -5,8 +5,12 @@ Software developer
 Наиль Алишев
 Java для начинающих
 https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak
+
+Наиль Алишев
 Spring Framework
 https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ
+
+Наиль Алишев
 Java EE для начинающих
 https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr
 
@@ -16,11 +20,15 @@ https://www.youtube.com/playlist?list=PLlsMRoVt5sTNpihn4q4S4an2xpYkSA3RR
 letsCode
 Spring Boot MVS (Sweater App)
 https://www.youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO
+
+letsCode
 Spring Boot Rest + Vue.js
 https://www.youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm
 
 JavaBegin
 https://javabegin.justclick.ru/lms/
+
+JavaBegin
 https://lms.javabegin.ru/moi-kursy/
 
 DevStudy.net
