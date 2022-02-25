@@ -29,7 +29,7 @@ Spring Boot Rest + Vue.js
 https://www.youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm
 
 JavaBegin
-https://lms.javabegin.ru/moi-kursy/
+https://lms.javabegin.ru/
 
 DevStudy.net
 https://devstudy.net/all-courses
