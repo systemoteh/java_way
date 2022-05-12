@@ -1,10 +1,15 @@
-# java_way
-
 Software developer
+#java_way
 
 Наиль Алишев
 Java для начинающих
 https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak
+
+Яндекс.Практикум
+https://practicum.yandex.ru/profile/java-developer/
+
+Hexlet
+https://ru.hexlet.io/courses/java-basics
 
 Наиль Алишев
 Spring Framework
@@ -13,9 +18,6 @@ https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ
 Наиль Алишев
 Java EE для начинающих
 https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr
-
-JavaRush 
-https://javarush.ru
 
 Eugene Suleimanov (Примеры приложений)
 https://www.youtube.com/playlist?list=PLlsMRoVt5sTNpihn4q4S4an2xpYkSA3RR
@@ -36,6 +38,3 @@ https://devstudy.net/all-courses
 
 Zaur Tregulov
 https://www.udemy.com/user/zaur-tregulov/
-
-ITVDN
-https://itvdn.com/ru/specialities
