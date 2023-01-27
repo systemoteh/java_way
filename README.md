@@ -39,3 +39,9 @@ https://devstudy.net/all-courses
 Zaur Tregulov
 https://stepik.org/users/478344462/
 https://www.udemy.com/user/zaur-tregulov/
+
+Hexlet
+Многопоточка
+https://ru.hexlet.io/courses/concurrency
+
+
