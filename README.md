@@ -12,8 +12,16 @@ Hexlet
 https://ru.hexlet.io/courses/java-basics
 
 Наиль Алишев
-Spring Framework
+Продвинутая Java
+https://swiftbook.org/courses/415/show_promo/
+
+Наиль Алишев
+Spring Framework (бесплатно/начало)
 https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ
+
+Наиль Алишев
+Spring Framework (платно/продолжение)
+https://swiftbook.org/courses/438/show_promo/
 
 Наиль Алишев
 Java EE для начинающих
