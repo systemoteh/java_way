@@ -5,7 +5,7 @@ Software developer
 Java для начинающих
 https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak
 
-Яндекс.Практикум
+Яндекс.Практикум (только бесплатный раздел!)
 https://practicum.yandex.ru/profile/java-developer/
 
 Hexlet
