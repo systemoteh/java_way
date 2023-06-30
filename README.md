@@ -30,6 +30,11 @@ https://swiftbook.org/courses/438/show_promo/
 Java EE для начинающих
 https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr
 
+Zaur Tregulov Заур Трегулов
+https://www.youtube.com/@programaniya/playlists
+https://stepik.org/users/478344462/
+https://www.udemy.com/user/zaur-tregulov/
+
 Eugene Suleimanov (Примеры приложений)
 https://www.youtube.com/playlist?list=PLlsMRoVt5sTNpihn4q4S4an2xpYkSA3RR
 
@@ -46,10 +51,6 @@ https://lms.javabegin.ru/
 
 DevStudy.net
 https://devstudy.net/all-courses
-
-Zaur Tregulov
-https://stepik.org/users/478344462/
-https://www.udemy.com/user/zaur-tregulov/
 
 Hexlet
 Многопоточка
