@@ -43,7 +43,7 @@ https://lms.javabegin.ru/
 DevStudy.net
 https://devstudy.net/all-courses
 
-Java: Многопоточность
+Hexlet. Java: Многопоточность
 https://ru.hexlet.io/courses/concurrency
 
 Подготовка к алгоритмическому собеседованию
