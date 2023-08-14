@@ -48,3 +48,10 @@ https://ru.hexlet.io/courses/concurrency
 
 Подготовка к алгоритмическому собеседованию
 https://practicum.yandex.ru/algorithms-interview/
+
+Mkyong.com
+https://mkyong.com/all-tutorials-on-mkyong-com
+
+Jackrutorial
+https://www.jackrutorial.com/search/label/spring%20boot%20tutorial
+
