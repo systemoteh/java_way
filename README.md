@@ -5,6 +5,9 @@ Software developer
 https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak
 https://swiftbook.org/courses/416/
 
+Инструменты разработчика (Режим отладки и горячие клавиши в IntelliJ IDEA)
+https://www.youtube.com/playlist?list=PL5BhKu-LkR_2QRoLWCjzt05xGKK56gGV3
+
 Яндекс.Практикум (только бесплатный раздел)
 https://practicum.yandex.ru/profile/java-developer/
 
