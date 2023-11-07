@@ -17,6 +17,9 @@ https://ru.hexlet.io/courses/java-basics
 CodingBat
 https://codingbat.com/java
 
+ProgLang
+https://proglang.su/java
+
 Наиль Алишев. Продвинутая Java
 https://swiftbook.org/courses/415/show_promo/
 
