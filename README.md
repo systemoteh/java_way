@@ -20,41 +20,28 @@ Software developer
 
 [Наиль Алишев. Продвинутая Java](https://swiftbook.org/courses/415/show_promo/)
 
-Наиль Алишев. Spring Framework 
-https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ
+[Наиль Алишев. Spring Framework](https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)  
 (бесплатно/начало)
 
-Наиль Алишев. Spring Framework
-https://swiftbook.org/courses/438/show_promo/
+[Наиль Алишев. Spring Framework](https://swiftbook.org/courses/438/show_promo/)  
 (платно/продолжение)
 
-Наиль Алишев. Java EE для начинающих
-https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr
+[Наиль Алишев. Java EE для начинающих](https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)
 
-Eugene Suleimanov (Примеры приложений)
-https://www.youtube.com/playlist?list=PLlsMRoVt5sTNpihn4q4S4an2xpYkSA3RR
+[Eugene Suleimanov](https://www.youtube.com/playlist?list=PLlsMRoVt5sTNpihn4q4S4an2xpYkSA3RR)  
+(Примеры приложений)
 
-letsCode. Spring Boot MVS (Sweater App)
-https://www.youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO
+[letsCode. Spring Boot MVS (Sweater App)](https://www.youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)
 
-letsCode. Spring Boot Rest + Vue.js
-https://www.youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm
+[letsCode. Spring Boot Rest + Vue.js](https://www.youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)
 
-JavaBegin
-https://lms.javabegin.ru/
+[JavaBegin](https://lms.javabegin.ru/)
 
-DevStudy.net
-https://devstudy.net/all-courses
+[Hexlet. Java: Многопоточность](https://ru.hexlet.io/courses/concurrency)
 
-Hexlet. Java: Многопоточность
-https://ru.hexlet.io/courses/concurrency
+[Подготовка к алгоритмическому собеседованию](https://practicum.yandex.ru/algorithms-interview/)
 
-Подготовка к алгоритмическому собеседованию
-https://practicum.yandex.ru/algorithms-interview/
+[Mkyong.com](https://mkyong.com/all-tutorials-on-mkyong-com)
 
-Mkyong.com
-https://mkyong.com/all-tutorials-on-mkyong-com
-
-Jackrutorial
-https://www.jackrutorial.com/search/label/spring%20boot%20tutorial
+[Jackrutorial](https://www.jackrutorial.com/search/label/spring%20boot%20tutorial)
 
