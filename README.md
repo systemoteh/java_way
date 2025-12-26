@@ -1,11 +1,11 @@
 Software developer
 #java_way
 
-[Заур Трегулов](https://stepik.org/users/zaurtregulov/teach)
+[Заур Трегулов. Сборник курсов](https://stepik.org/users/zaurtregulov/teach)
 
-Наиль Алишев. Java для начинающих  
-[YouTube](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)  
-[SwiftBook](https://swiftbook.org/courses/416/)
+
+Наиль Алишев. Java для начинающих [YouTube](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)  
+Наиль Алишев. Java для начинающих [SwiftBook](https://swiftbook.org/courses/416/)
 
 [Инструменты разработчика (Режим отладки и горячие клавиши в IntelliJ IDEA)](https://www.youtube.com/playlist?list=PL5BhKu-LkR_2QRoLWCjzt05xGKK56gGV3)
 
