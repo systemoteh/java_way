@@ -1,8 +1,6 @@
-Software developer
-#java_way
+### Software developer`java_way`
 
 [Заур Трегулов. Сборник курсов](https://stepik.org/users/zaurtregulov/teach)
-
 
 Наиль Алишев. Java для начинающих [YouTube](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)  
 Наиль Алишев. Java для начинающих [SwiftBook](https://swiftbook.org/courses/416/)
