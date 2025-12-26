@@ -1,31 +1,24 @@
 Software developer
 #java_way
 
-[Заур Трегулов]
-(https://stepik.org/users/zaurtregulov/teach)
+[Заур Трегулов](https://stepik.org/users/zaurtregulov/teach)
 
-Наиль Алишев. Java для начинающих
-[YouTube](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)
+Наиль Алишев. Java для начинающих  
+[YouTube](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)  
 [SwiftBook](https://swiftbook.org/courses/416/)
 
-[Инструменты разработчика (Режим отладки и горячие клавиши в IntelliJ IDEA)]
-(https://www.youtube.com/playlist?list=PL5BhKu-LkR_2QRoLWCjzt05xGKK56gGV3)
+[Инструменты разработчика (Режим отладки и горячие клавиши в IntelliJ IDEA)](https://www.youtube.com/playlist?list=PL5BhKu-LkR_2QRoLWCjzt05xGKK56gGV3)
 
-[Яндекс.Практикум ]
-(https://practicum.yandex.ru/profile/java-developer/)
+[Яндекс.Практикум ](https://practicum.yandex.ru/profile/java-developer/)  
 (только бесплатный раздел)
 
-[Hexlet]
-(https://ru.hexlet.io/courses/java-basics)
+[Hexlet](https://ru.hexlet.io/courses/java-basics)
 
-[CodingBat]
-(https://codingbat.com/java)
+[CodingBat](https://codingbat.com/java)
 
-ProgLang
-https://proglang.su/java
+[ProgLang](https://proglang.su/java)
 
-[Наиль Алишев. Продвинутая Java]
-(https://swiftbook.org/courses/415/show_promo/)
+[Наиль Алишев. Продвинутая Java](https://swiftbook.org/courses/415/show_promo/)
 
 Наиль Алишев. Spring Framework 
 https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ
