@@ -2,7 +2,7 @@
 
 [Заур Трегулов. Сборник курсов](https://stepik.org/users/zaurtregulov/teach)
 
-[Наиль Алишев. Java для начинающих](https://swiftbook.org/search/?utf8=%E2%9C%93&search%5Bkeyword%5D=java)
+[Наиль Алишев. Сборник курсов](https://swiftbook.org/search/?utf8=%E2%9C%93&search%5Bkeyword%5D=java)
 
 [Инструменты разработчика](https://www.youtube.com/playlist?list=PL5BhKu-LkR_2QRoLWCjzt05xGKK56gGV3)  
 (Режим отладки и горячие клавиши в IntelliJ IDEA)
