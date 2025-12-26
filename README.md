@@ -2,10 +2,10 @@
 
 [Заур Трегулов. Сборник курсов](https://stepik.org/users/zaurtregulov/teach)
 
-Наиль Алишев. Java для начинающих [YouTube](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)  
-Наиль Алишев. Java для начинающих [SwiftBook](https://swiftbook.org/courses/416/)
+[Наиль Алишев. Java для начинающих](https://swiftbook.org/search/?utf8=%E2%9C%93&search%5Bkeyword%5D=java)
 
-[Инструменты разработчика (Режим отладки и горячие клавиши в IntelliJ IDEA)](https://www.youtube.com/playlist?list=PL5BhKu-LkR_2QRoLWCjzt05xGKK56gGV3)
+[Инструменты разработчика](https://www.youtube.com/playlist?list=PL5BhKu-LkR_2QRoLWCjzt05xGKK56gGV3)  
+(Режим отладки и горячие клавиши в IntelliJ IDEA)
 
 [Яндекс.Практикум ](https://practicum.yandex.ru/profile/java-developer/)  
 (только бесплатный раздел)
