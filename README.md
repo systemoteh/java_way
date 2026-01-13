@@ -4,6 +4,8 @@
 
 [Наиль Алишев. Java для начинающих](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)
 
+[Наиль Алишев. Java для начинающих. Практика](https://java-marathon.tilda.ws)
+
 [Инструменты разработчика](https://www.youtube.com/playlist?list=PL5BhKu-LkR_2QRoLWCjzt05xGKK56gGV3)  
 (Режим отладки и горячие клавиши в IntelliJ IDEA)
 
